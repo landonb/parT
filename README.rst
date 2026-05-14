@@ -1,5 +1,6 @@
+########################
 parT Paragraph Formatter
-========================
+########################
 
 ``parT`` is a fork of the wonderful ``par`` tool
 beloved by Vim and console users since 1993.
